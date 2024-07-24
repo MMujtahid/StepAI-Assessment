@@ -49,3 +49,10 @@ Python
 
 os
 json
+## Selected Books
+# books/[Data] Python Data Science Handbook (2017).pdf
+https://github.com/dlsucomet/MLResources/blob/master/books/%5BData%5D%20Python%20Data%20Science%20Handbook%20(2017).pdf
+# books/[ML] Introduction to Machine Learning with Python (2017).pdf
+https://github.com/dlsucomet/MLResources/blob/master/books/%5BML%5D%20Introduction%20to%20Machine%20Learning%20with%20Python%20(2017).pdf
+# books/[Python] Fluent Python (2015).pdf
+https://github.com/dlsucomet/MLResources/blob/master/books/%5BPython%5D%20Fluent%20Python%20(2015).pdf
